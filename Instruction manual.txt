@@ -1,0 +1,4 @@
+After trial and error and googling, to run this page set command prompt to 
+cd location then write http-server then type http://localhost:8080 in your server to run
+
+note to do  "npm i http-server"
